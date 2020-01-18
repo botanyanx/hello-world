@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+My first repository.
+Entering into the Maryloon Flower Show.
